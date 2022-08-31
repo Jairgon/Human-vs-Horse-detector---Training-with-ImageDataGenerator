@@ -1,0 +1,2 @@
+# Human-vs-Horse-detector Training with ImageDataGenerator
+In this project a model will be trained which will differentiate an image between whether it is a horse or a person. There are 1000 images for training and 256 for validation with different sizes and positions.  Here we explicitly do not have a label for each image, so we will use the ImageDataGenerator API instead. and it will automatically do the label for us.
